@@ -8,7 +8,7 @@ All figures in the BOM are in USD.
 
 | Item      | Description | Cost | Quantity | Total | Link | Notes |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| GOES Kit      | This is our RF ground station kit       | $199       | 1       | $199       | [Nooelec Goes Bundle](https://www.amazon.com/dp/B07K25Y1JW)         |  Comes with antenna, LNA and RTL-SDR       |    
+| GOES Kit      | This is our RF ground station kit       | $199       | 1       | $199       | [Nooelec Goes Bundle](https://www.amazon.com/dp/B08HGQXC7C)         |  Comes with antenna, LNA and RTL-SDR       |    
 | Tripod   | Tripod to mount the antenna         | $52       | 1       | $52       | [Tripod](https://www.amazon.com/Tripod-Satellite-Mount-Antenna-Network/dp/B0B2213CV7)       | NA      |    
 | Raspberry Pi 4   | This is our edge compute housing all our containerized RF and monitoring solutions        | $180       | 1       |   $180     | TBD       | Currently, there is a raspi shortage.       | 
 
